@@ -3,6 +3,7 @@ Advanced Micro Devices, Inc. (AMD) is a global semiconductor company that design
 
 ## Contributions
 **Vikas Gupta**: I was responsible for implementing the mathematical models and coding aspects related to pricing financial derivatives. 
+
 **Other teammates**: worked on theoretical research, financial analysis, and case study applications in derivative pricing.
 
 ### Key Learnings
